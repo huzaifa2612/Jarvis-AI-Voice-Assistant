@@ -1,0 +1,28 @@
+# Environment variables / API keys
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated audio file
+temp.mp3
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# API keys
+API_Keys.env
+
+# Local / unused file
+client.py

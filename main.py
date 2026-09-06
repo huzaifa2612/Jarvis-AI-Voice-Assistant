@@ -2,7 +2,7 @@ import speech_recognition as sr
 import webbrowser  # to open web borwser
 import pyttsx3    # Text to speech
 import MusicLibrary # Local file
-import requests   # for api
+import requests   # to open browser
 from google import genai   # for gemini
 from google.genai import types
 from gtts import gTTS  # Text to speech better than pyttsx3
